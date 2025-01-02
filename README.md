@@ -26,7 +26,7 @@ python main.py
 ```
 
 ## Output
-```bash
+```text
 Bounce detected for key 'space' after 0.046905 seconds.
 Bounce detected for key 'm' after 0.046960 seconds.
 Bounce detected for key 'r' after 0.043264 seconds.
