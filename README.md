@@ -27,22 +27,9 @@ python main.py
 
 ## Output
 ```bash
-Key 'space' pressed after 1.126027 seconds.
-Key 'space' pressed after 0.791025 seconds.
-Key 'space' pressed after 0.687029 seconds.
-Key 'space' pressed after 0.890103 seconds.
-Key 'space' pressed after 1.227010 seconds.
-Key 'space' pressed after 0.948973 seconds.
-Key 'space' pressed after 0.857048 seconds.
-Key 'space' pressed after 0.935020 seconds.
-Key 'space' pressed after 0.971063 seconds.
-Key 'space' pressed after 0.910039 seconds.
-Key 'space' pressed after 1.002995 seconds.
-Key 'space' pressed after 0.941028 seconds.
-Key 'space' pressed after 0.966068 seconds.
-Key 'space' pressed after 1.026017 seconds.
-Key 'space' pressed after 0.955106 seconds.
-Key 'space' pressed after 0.985956 seconds.
-Key 'space' pressed after 1.015056 seconds.
 Bounce detected for key 'space' after 0.046905 seconds.
+Bounce detected for key 'm' after 0.046960 seconds.
+Bounce detected for key 'r' after 0.043264 seconds.
+Bounce detected for key 'n' after 0.058708 seconds.
+Bounce detected for key 'v' after 0.043977 seconds.
 ```
