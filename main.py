@@ -5,29 +5,7 @@ BOUNCE_THRESHOLD = 0.075
 
 timer = None
 last = None
-ignore_key_codes = [
-	42, # Left Shift
-	54, # Right Shift
-	56, # Alt
-	29, # Left Ctrl
-	93, # menu
-	541, # alt gr
-	72, # up arrow
-	80, # down arrow
-	75, # left arrow
-	77, # right arrow
-	82, # insert
-	83, # delete
-	71, # home
-	79, # end
-	73, # page up
-	81, # page down
-	69, # num lock & clear
-	55, # print screen
-	70, # scroll lock
-	58, # caps lock
-#	57, # space
-	14, # backspace
+ignore_keys = [
 	-173, # mute
 	-174, # volume down
 	-175, # volume up
@@ -35,12 +13,34 @@ ignore_key_codes = [
 	-177, # play previous
 	-178, # stop
 	-179, # play/pause
+	14, # backspace
+	29, # Left Ctrl
+	42, # Left Shift
+	54, # Right Shift
+	55, # print screen
+	56, # Alt
+	58, # caps lock
+	69, # num lock & clear
+	70, # scroll lock
+	71, # home
+	72, # up arrow
+	73, # page up
+	75, # left arrow
+	77, # right arrow
+	79, # end
+	80, # down arrow
+	81, # page down
+	82, # insert
+	83, # delete
 	91, # left windows
 	92, # right windows
+	93, # menu
+#	57, # space
+	541, # alt gr
 ]
 
 def bounce_detection(event):
-	if event.scan_code in ignore_key_codes:
+	if event.scan_code in ignore_keys:
 		return
 	global timer, last
 	now = time.perf_counter()
