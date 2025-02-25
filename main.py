@@ -54,7 +54,7 @@ def bounce_detection(event: keyboard.KeyboardEvent) -> None:
 	# check for bounce
 	diff = now - key_event['time']
 	if state == True and diff < BOUNCE_THRESHOLD:
-		print(f"Bounce {diff:.6f}s on '{event.name}' ({event.event_type})")
+		print(f"Bounce {diff:.6f}s on '{event.name}'")
 		key_event['bounced'] += 1
 		if event.name not in bounced:
 			bounced[event.name] = []
