@@ -1,4 +1,5 @@
-# Keyboard Bounce Detector
+# Keyboard Chattering/Bounce Detection
+_Detects keyboard chattering/bounce by monitoring the time between key presses._  
 _by Bang Systems_  
 
 ## Introduction
