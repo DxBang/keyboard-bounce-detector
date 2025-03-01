@@ -9,7 +9,7 @@ import csv
 import json
 from typing import Dict, List
 
-BOUNCE_THRESHOLD: float = 0.05  # inhumanly fast
+BOUNCE_THRESHOLD: float = 0.035  # inhumanly fast
 BOUNCE_CSVFILE: str = "results.csv"
 BOUNCE_JSONFILE: str = "results.json"
 IGNORE_KEYS: List[int] = [
@@ -57,8 +57,11 @@ def bounce_detection(event: keyboard.KeyboardEvent) -> None:
 		print(f"Bounce {diff:.6f}s on '{event.name}'")
 		key_event['bounced'] += 1
 		if event.name not in bounced:
-			bounced[event.name] = []
-		bounced[event.name].append(diff)
+			bounced[event.scan_code] = {
+				'name': event.name,
+				'time': []
+			}
+		bounced[event.scan_code]['time'].append(diff)
 	if state == True:
 		key_event['pressed'] += 1
 	key_event['state'] = state

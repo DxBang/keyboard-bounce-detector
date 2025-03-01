@@ -1,349 +1,369 @@
 {
-	"version": "1.0.5",
+	"version": "1.0.8",
 	"bounce": {
-		"venstre pil": [
-			0.04106399999000132
-		],
-		"b": [
-			0.04999700002372265,
-			0.04994370008353144
-		],
-		"c": [
-			0.021982099977321923
-		],
-		"h\u00f8jre pil": [
-			0.036972800036892295
-		]
+		"34": {
+			"name": "g",
+			"time": [
+				0.023013099998934194
+			]
+		},
+		"47": {
+			"name": "v",
+			"time": [
+				0.021982499994919635
+			]
+		},
+		"29": {
+			"name": "h\u00f8jre ctrl",
+			"time": [
+				0.021961099999316502
+			]
+		},
+		"42": {
+			"name": "skift",
+			"time": [
+				0.021948200002952944
+			]
+		},
+		"46": {
+			"name": "c",
+			"time": [
+				0.021586900002148468
+			]
+		},
+		"79": {
+			"name": "end",
+			"time": [
+				0.02193529999931343
+			]
+		},
+		"18": {
+			"name": "e",
+			"time": [
+				0.021987400003126822
+			]
+		},
+		"52": {
+			"name": ".",
+			"time": [
+				0.025972600000386592
+			]
+		}
 	},
 	"result": {
+		"29": {
+			"name": "ctrl",
+			"pressed": 241,
+			"bounced": 2
+		},
+		"46": {
+			"name": "c",
+			"pressed": 161,
+			"bounced": 11
+		},
 		"30": {
 			"name": "a",
-			"pressed": 78,
+			"pressed": 143,
 			"bounced": 0
 		},
-		"38": {
-			"name": "l",
-			"pressed": 57,
-			"bounced": 0
+		"47": {
+			"name": "v",
+			"pressed": 76,
+			"bounced": 1
 		},
-		"23": {
-			"name": "i",
-			"pressed": 60,
-			"bounced": 0
+		"42": {
+			"name": "skift",
+			"pressed": 156,
+			"bounced": 2
 		},
-		"14": {
-			"name": "backspace",
-			"pressed": 116,
-			"bounced": 0
-		},
-		"28": {
-			"name": "enter",
-			"pressed": 87,
-			"bounced": 0
-		},
-		"2": {
-			"name": "1",
-			"pressed": 12,
-			"bounced": 0
-		},
-		"3": {
-			"name": "2",
-			"pressed": 9,
-			"bounced": 0
-		},
-		"50": {
-			"name": "m",
-			"pressed": 44,
+		"20": {
+			"name": "t",
+			"pressed": 218,
 			"bounced": 0
 		},
 		"57": {
 			"name": "space",
-			"pressed": 285,
+			"pressed": 341,
 			"bounced": 0
 		},
-		"31": {
-			"name": "s",
-			"pressed": 66,
-			"bounced": 0
-		},
-		"17": {
-			"name": "w",
-			"pressed": 13,
-			"bounced": 0
-		},
-		"20": {
-			"name": "t",
-			"pressed": 60,
-			"bounced": 0
-		},
-		"46": {
-			"name": "c",
-			"pressed": 32,
-			"bounced": 1
-		},
-		"35": {
-			"name": "h",
-			"pressed": 29,
-			"bounced": 0
-		},
-		"80": {
-			"name": "pil ned",
-			"pressed": 39,
-			"bounced": 0
-		},
-		"48": {
-			"name": "b",
-			"pressed": 30,
-			"bounced": 2
-		},
-		"22": {
-			"name": "u",
-			"pressed": 22,
-			"bounced": 0
-		},
-		"24": {
-			"name": "o",
-			"pressed": 48,
-			"bounced": 0
-		},
-		"49": {
-			"name": "n",
-			"pressed": 60,
+		"36": {
+			"name": "j",
+			"pressed": 7,
 			"bounced": 0
 		},
 		"18": {
 			"name": "e",
-			"pressed": 135,
+			"pressed": 290,
+			"bounced": 1
+		},
+		"34": {
+			"name": "g",
+			"pressed": 48,
+			"bounced": 1
+		},
+		"31": {
+			"name": "s",
+			"pressed": 128,
+			"bounced": 0
+		},
+		"26": {
+			"name": "\u00e5",
+			"pressed": 5,
 			"bounced": 0
 		},
 		"32": {
 			"name": "d",
-			"pressed": 49,
+			"pressed": 91,
 			"bounced": 0
 		},
-		"34": {
-			"name": "g",
-			"pressed": 44,
-			"bounced": 0
-		},
-		"75": {
-			"name": "4",
-			"pressed": 148,
-			"bounced": 1
-		},
-		"79": {
-			"name": "end",
-			"pressed": 39,
-			"bounced": 0
-		},
-		"42": {
-			"name": "skift",
-			"pressed": 93,
-			"bounced": 0
-		},
-		"29": {
-			"name": "h\u00f8jre ctrl",
-			"pressed": 82,
-			"bounced": 0
-		},
-		"83": {
-			"name": "delete",
-			"pressed": 22,
+		"49": {
+			"name": "n",
+			"pressed": 114,
 			"bounced": 0
 		},
 		"54": {
 			"name": "right shift",
+			"pressed": 22,
+			"bounced": 0
+		},
+		"12": {
+			"name": "?",
+			"pressed": 13,
+			"bounced": 0
+		},
+		"28": {
+			"name": "enter",
+			"pressed": 83,
+			"bounced": 0
+		},
+		"24": {
+			"name": "o",
+			"pressed": 109,
+			"bounced": 0
+		},
+		"50": {
+			"name": "m",
+			"pressed": 36,
+			"bounced": 0
+		},
+		"39": {
+			"name": "\u00e6",
+			"pressed": 7,
+			"bounced": 0
+		},
+		"14": {
+			"name": "backspace",
+			"pressed": 180,
+			"bounced": 0
+		},
+		"37": {
+			"name": "k",
+			"pressed": 26,
+			"bounced": 0
+		},
+		"40": {
+			"name": "\u00f8",
+			"pressed": 2,
+			"bounced": 0
+		},
+		"19": {
+			"name": "r",
+			"pressed": 217,
+			"bounced": 0
+		},
+		"75": {
+			"name": "venstre pil",
+			"pressed": 69,
+			"bounced": 0
+		},
+		"79": {
+			"name": "end",
+			"pressed": 43,
+			"bounced": 1
+		},
+		"25": {
+			"name": "p",
+			"pressed": 19,
+			"bounced": 0
+		},
+		"23": {
+			"name": "i",
+			"pressed": 127,
+			"bounced": 0
+		},
+		"51": {
+			"name": ",",
 			"pressed": 15,
 			"bounced": 0
 		},
-		"9": {
-			"name": "(",
-			"pressed": 6,
+		"33": {
+			"name": "f",
+			"pressed": 49,
 			"bounced": 0
 		},
-		"71": {
-			"name": "home",
-			"pressed": 16,
+		"35": {
+			"name": "h",
+			"pressed": 73,
 			"bounced": 0
 		},
-		"72": {
-			"name": "pil op",
-			"pressed": 31,
+		"22": {
+			"name": "u",
+			"pressed": 76,
 			"bounced": 0
 		},
-		"4": {
-			"name": "#",
-			"pressed": 8,
+		"38": {
+			"name": "l",
+			"pressed": 55,
 			"bounced": 0
+		},
+		"52": {
+			"name": ".",
+			"pressed": 36,
+			"bounced": 1
 		},
 		"77": {
 			"name": "h\u00f8jre pil",
-			"pressed": 340,
-			"bounced": 1
+			"pressed": 18,
+			"bounced": 0
 		},
 		"45": {
 			"name": "x",
 			"pressed": 11,
 			"bounced": 0
 		},
-		"73": {
-			"name": "9",
+		"4": {
+			"name": "3",
+			"pressed": 5,
+			"bounced": 0
+		},
+		"80": {
+			"name": "pil ned",
+			"pressed": 103,
+			"bounced": 0
+		},
+		"48": {
+			"name": "b",
+			"pressed": 19,
+			"bounced": 0
+		},
+		"2": {
+			"name": "!",
+			"pressed": 11,
+			"bounced": 0
+		},
+		"83": {
+			"name": "delete",
+			"pressed": 40,
+			"bounced": 0
+		},
+		"44": {
+			"name": "z",
+			"pressed": 3,
+			"bounced": 0
+		},
+		"71": {
+			"name": "home",
+			"pressed": 22,
+			"bounced": 0
+		},
+		"53": {
+			"name": "-",
+			"pressed": 3,
+			"bounced": 0
+		},
+		"21": {
+			"name": "y",
+			"pressed": 44,
+			"bounced": 0
+		},
+		"72": {
+			"name": "pil op",
+			"pressed": 38,
+			"bounced": 0
+		},
+		"43": {
+			"name": "'",
+			"pressed": 4,
+			"bounced": 0
+		},
+		"10": {
+			"name": ")",
+			"pressed": 1,
+			"bounced": 0
+		},
+		"16": {
+			"name": "Q",
+			"pressed": 2,
+			"bounced": 0
+		},
+		"93": {
+			"name": "program",
+			"pressed": 2,
+			"bounced": 0
+		},
+		"17": {
+			"name": "w",
+			"pressed": 80,
+			"bounced": 0
+		},
+		"86": {
+			"name": ">",
+			"pressed": 6,
+			"bounced": 0
+		},
+		"5": {
+			"name": "4",
+			"pressed": 109,
+			"bounced": 0
+		},
+		"6": {
+			"name": "5",
+			"pressed": 2,
+			"bounced": 0
+		},
+		"56": {
+			"name": "alt",
+			"pressed": 8,
+			"bounced": 0
+		},
+		"15": {
+			"name": "tab",
+			"pressed": 32,
+			"bounced": 0
+		},
+		"1": {
+			"name": "esc",
 			"pressed": 2,
 			"bounced": 0
 		},
 		"11": {
 			"name": "=",
-			"pressed": 13,
-			"bounced": 0
-		},
-		"52": {
-			"name": ".",
-			"pressed": 16,
-			"bounced": 0
-		},
-		"76": {
-			"name": "5",
-			"pressed": 7,
-			"bounced": 0
-		},
-		"37": {
-			"name": "k",
-			"pressed": 49,
-			"bounced": 0
-		},
-		"19": {
-			"name": "r",
-			"pressed": 84,
-			"bounced": 0
-		},
-		"43": {
-			"name": "'",
-			"pressed": 1,
-			"bounced": 0
-		},
-		"91": {
-			"name": "venstre windows",
 			"pressed": 2,
 			"bounced": 0
 		},
-		"55": {
-			"name": "*",
+		"541": {
+			"name": "alt gr",
 			"pressed": 1,
 			"bounced": 0
 		},
-		"47": {
-			"name": "v",
-			"pressed": 30,
-			"bounced": 0
-		},
-		"56": {
-			"name": "alt",
-			"pressed": 2,
-			"bounced": 0
-		},
-		"15": {
-			"name": "tab",
+		"8": {
+			"name": "{",
 			"pressed": 1,
 			"bounced": 0
 		},
-		"25": {
-			"name": "p",
-			"pressed": 32,
-			"bounced": 0
-		},
-		"51": {
-			"name": ",",
-			"pressed": 10,
-			"bounced": 0
-		},
-		"10": {
-			"name": ")",
-			"pressed": 5,
-			"bounced": 0
-		},
-		"53": {
-			"name": "/",
+		"3": {
+			"name": "\"",
 			"pressed": 3,
-			"bounced": 0
-		},
-		"36": {
-			"name": "j",
-			"pressed": 11,
-			"bounced": 0
-		},
-		"26": {
-			"name": "\u00e5",
-			"pressed": 10,
-			"bounced": 0
-		},
-		"33": {
-			"name": "f",
-			"pressed": 18,
-			"bounced": 0
-		},
-		"40": {
-			"name": "\u00f8",
-			"pressed": 5,
-			"bounced": 0
-		},
-		"81": {
-			"name": "3",
-			"pressed": 6,
-			"bounced": 0
-		},
-		"27": {
-			"name": "\u00a8",
-			"pressed": 1,
-			"bounced": 0
-		},
-		"21": {
-			"name": "y",
-			"pressed": 16,
-			"bounced": 0
-		},
-		"44": {
-			"name": "z",
-			"pressed": 11,
 			"bounced": 0
 		},
 		"82": {
 			"name": "0",
-			"pressed": 9,
-			"bounced": 0
-		},
-		"60": {
-			"name": "f2",
-			"pressed": 2,
-			"bounced": 0
-		},
-		"78": {
-			"name": "+",
-			"pressed": 3,
-			"bounced": 0
-		},
-		"74": {
-			"name": "-",
 			"pressed": 1,
-			"bounced": 0
-		},
-		"39": {
-			"name": "\u00e6",
-			"pressed": 2,
-			"bounced": 0
-		},
-		"6": {
-			"name": "5",
-			"pressed": 5,
-			"bounced": 0
-		},
-		"7": {
-			"name": "6",
-			"pressed": 2,
 			"bounced": 0
 		},
 		"68": {
 			"name": "f10",
-			"pressed": 2,
+			"pressed": 1,
 			"bounced": 0
 		}
 	}
