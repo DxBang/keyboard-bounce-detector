@@ -26,6 +26,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### Reset results
+```bash
+python main.py --reset
+```
+
+
 ## Output
 ```text
 Bounce detected for key 'space' after 0.046905 seconds.
